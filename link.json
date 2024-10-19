@@ -1,0 +1,18 @@
+[
+  {
+    "class_name": "友情鏈接",
+    "class_desc": "那些人，那些事",
+    "link_list": [
+      {
+        "name": "voidchunk",
+        "link": "https://voidchunk.github.io/",
+        "avatar": "https://voidchunk.github.io/img/top/avatar.png",
+        "descr": "最爱的pwn✌"
+        "name": "relost",
+        "link": "https://relostaka.github.io/",
+        "avatar": "",
+        "descr": "re神"
+      }
+    ]
+  }
+]
